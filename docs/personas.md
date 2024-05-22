@@ -16,18 +16,18 @@ Para adcionar uma numeração:
 2. y
 3. z
 
-## Adcionar imagens
+## Adicionar imagens
 
-Para isso, vamos precisar do link da imagem. Usaremos "![]()". 
+Para isso, vamos precisar do link da imagem. Usaremos "![]()".<br/>
 Se tirarmos a exclamação, podemos colocar texto dentro dos [], assim o texto dentro dele será um link para a imagem no texto
 ![]()
 
 ## Formas de Texto
 
-Para deixar o texto em negrito, usaremos dois * em cada lado da palavra ou frase para deixarmos em negrito. 
+Para deixar o texto em negrito, usaremos dois * em cada lado da palavra ou frase para deixarmos em negrito.
 Um * em cada lado deixa o texto em italico
 
-**Exemplo Negrito** 
+**Exemplo Negrito**\n
 *Exemplo italico*
 
 ## Representar um bloco de código
